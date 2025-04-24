@@ -1,8 +1,3 @@
-Name:  
-EID:  
-Email:  
-How many hours you worked on this assignment:  
-Slip days:  
-Collaborators:  
-AI contributions:   
-Comments:  
+Name:  Pranav Kallem
+EID:  pk22429
+Email:  pranav.kallem@utexas.edu
